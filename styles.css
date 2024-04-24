@@ -1,12 +1,30 @@
 body{
+    background-image: url(https://preview.free3d.com/img/2018/12/2202379919814559250/qwho0p83.jpg);
     font-family: Merriweather;
+    background-size: auto;
+    background-attachment: fixed;
+
 }
 
 h1 , h2{
   color: #483D8B;
-
+  font-size: Orbitron;
 }
 
 h3{
     color: #20B2AA;
+}
+
+p{
+    color: white;
+}
+
+img{
+    height: 200px;
+    width: 400px;
+}
+
+.neil{
+    width: 200px;
+    height: 300px;
 }
